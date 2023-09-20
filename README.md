@@ -12,7 +12,7 @@ most pronounced. The given dataset gives you an insight into the forest fires in
 region of Portugal. Using the dataset, identify the probability of future fires and the extent of
 damage.
 
-# Model for prediction of weather a wildfire is going to happen 
+## Model for prediction of weather a wildfire is going to happen 
 The optimal model is a random forest. We chose among several machine learning models, as well as deep learning models, because it exhibited the best performance. 
 For the exploration of different models, please refer to the notebooks FH_base_model.ipynb and FH_NN.ipynb. 
 
