@@ -1,7 +1,7 @@
 # Machine Learning Projects 
 Machine Learning Assignments and Projects
 ***
-Collaborated with [Tarun Raman](https://github.com/2307tarun), [Jayesh Totlani](https://github.com/jayesh0720) , Divyanshu
+Collaborated with [Tarun Raman](https://github.com/2307tarun), [Jayesh Totlani](https://github.com/jayesh0720) 
 ***
 
 # PROJECT - SDGs for Machine Learning
