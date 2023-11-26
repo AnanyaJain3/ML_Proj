@@ -54,4 +54,15 @@ likelihood depending on the subject's age and their diabetic family history.
 
 # Assignment 2
 
+1. Decision tree model with entropy implementation
+2. Adaboost
+3. Multiclass SVM
+
+Title: Communities and Crime
+
+Abstract: The data combines socio-economic data from the 1990 US Census, law enforcement data from
+the 1990 US LEMAS survey, and crime data from the 1995 FBI UCR. The crime dataset contains 128
+socio-economic features from the US 1990 Census. The target is the crime rate per community.
+
+Number of Instances: 1994, Number of Attributes: 128
    
